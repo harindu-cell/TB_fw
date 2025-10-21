@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "checksum" : null,
+    "checksumAlgorithm" : null,
+    "contentType" : null,
+    "data" : null,
+    "dataSize" : null,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "bd979bd0-a74f-11f0-b150-2710a8915e1d"
+    },
+    "externalId" : null,
+    "fileName" : null,
+    "hasData" : false,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "42df67d0-ae41-11f0-b150-2710a8915e1d"
+    },
+    "name" : "external fw",
+    "tag" : "external fw  v1.1.1",
+    "title" : "external fw",
+    "type" : "FIRMWARE",
+    "url" : "https://osjjsiusieid",
+    "version" : "v1.1.1"
+  }
+}
